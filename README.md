@@ -8,4 +8,4 @@ Run it on iOS Simulator in Xcode IDE.
 Basic form to get personal information from the users.
 
 ### SCREENSHOTS:
-<kbd><img src="SS_1.jpg" height="600"/></kbd>
+<kbd><img src="SS_1.png" height="600"/></kbd>
